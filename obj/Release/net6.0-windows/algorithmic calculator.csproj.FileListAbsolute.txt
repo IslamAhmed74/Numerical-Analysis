@@ -1,0 +1,35 @@
+E:\Numirical_project\algorithmic calculator\bin\Release\net6.0-windows\algorithmic calculator.exe
+E:\Numirical_project\algorithmic calculator\bin\Release\net6.0-windows\algorithmic calculator.deps.json
+E:\Numirical_project\algorithmic calculator\bin\Release\net6.0-windows\algorithmic calculator.runtimeconfig.json
+E:\Numirical_project\algorithmic calculator\bin\Release\net6.0-windows\algorithmic calculator.dll
+E:\Numirical_project\algorithmic calculator\bin\Release\net6.0-windows\algorithmic calculator.pdb
+E:\Numirical_project\algorithmic calculator\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+E:\Numirical_project\algorithmic calculator\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Numirical_project\algorithmic calculator\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Numirical_project\algorithmic calculator\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Numirical_project\algorithmic calculator\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Numirical_project\algorithmic calculator\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Numirical_project\algorithmic calculator\bin\Release\net6.0-windows\Jace.dll
+E:\Numirical_project\algorithmic calculator\obj\Release\net6.0-windows\algorithmic calculator.csproj.AssemblyReference.cache
+E:\Numirical_project\algorithmic calculator\obj\Release\net6.0-windows\algorithmic_calculator.bisection.resources
+E:\Numirical_project\algorithmic calculator\obj\Release\net6.0-windows\algorithmic_calculator.Cramer.resources
+E:\Numirical_project\algorithmic calculator\obj\Release\net6.0-windows\algorithmic_calculator.falsep.resources
+E:\Numirical_project\algorithmic calculator\obj\Release\net6.0-windows\algorithmic_calculator.fixedPoint.resources
+E:\Numirical_project\algorithmic calculator\obj\Release\net6.0-windows\algorithmic_calculator.gauss.resources
+E:\Numirical_project\algorithmic calculator\obj\Release\net6.0-windows\algorithmic_calculator.home.resources
+E:\Numirical_project\algorithmic calculator\obj\Release\net6.0-windows\algorithmic_calculator.LU.resources
+E:\Numirical_project\algorithmic calculator\obj\Release\net6.0-windows\algorithmic_calculator.Methods.resources
+E:\Numirical_project\algorithmic calculator\obj\Release\net6.0-windows\algorithmic_calculator.Newton.resources
+E:\Numirical_project\algorithmic calculator\obj\Release\net6.0-windows\algorithmic_calculator.Properties.Resources.resources
+E:\Numirical_project\algorithmic calculator\obj\Release\net6.0-windows\algorithmic_calculator.secant.resources
+E:\Numirical_project\algorithmic calculator\obj\Release\net6.0-windows\algorithmic calculator.csproj.GenerateResource.cache
+E:\Numirical_project\algorithmic calculator\obj\Release\net6.0-windows\algorithmic calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Numirical_project\algorithmic calculator\obj\Release\net6.0-windows\algorithmic calculator.AssemblyInfoInputs.cache
+E:\Numirical_project\algorithmic calculator\obj\Release\net6.0-windows\algorithmic calculator.AssemblyInfo.cs
+E:\Numirical_project\algorithmic calculator\obj\Release\net6.0-windows\algorithmic calculator.csproj.CoreCompileInputs.cache
+E:\Numirical_project\algorithmic calculator\obj\Release\net6.0-windows\algorithmic calculator.csproj.CopyComplete
+E:\Numirical_project\algorithmic calculator\obj\Release\net6.0-windows\algorithmic calculator.dll
+E:\Numirical_project\algorithmic calculator\obj\Release\net6.0-windows\refint\algorithmic calculator.dll
+E:\Numirical_project\algorithmic calculator\obj\Release\net6.0-windows\algorithmic calculator.pdb
+E:\Numirical_project\algorithmic calculator\obj\Release\net6.0-windows\algorithmic calculator.genruntimeconfig.cache
+E:\Numirical_project\algorithmic calculator\obj\Release\net6.0-windows\ref\algorithmic calculator.dll

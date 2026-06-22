@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Numirical_project\\algorithmic calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|e:\\numirical_project\\algorithmic calculator\\fixedpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|solutionrelative:fixedpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|E:\\Numirical_project\\algorithmic calculator\\cramer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|solutionrelative:cramer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|E:\\Numirical_project\\algorithmic calculator\\lu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|solutionrelative:lu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|E:\\Numirical_project\\algorithmic calculator\\gauss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|solutionrelative:gauss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|e:\\numirical_project\\algorithmic calculator\\falseposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|solutionrelative:falseposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|E:\\Numirical_project\\algorithmic calculator\\secant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|solutionrelative:secant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|e:\\numirical_project\\algorithmic calculator\\secant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|solutionrelative:secant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|e:\\numirical_project\\algorithmic calculator\\bisection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|solutionrelative:bisection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|E:\\Numirical_project\\algorithmic calculator\\bisection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|solutionrelative:bisection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|E:\\Numirical_project\\algorithmic calculator\\newton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|solutionrelative:newton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|e:\\numirical_project\\algorithmic calculator\\newton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|solutionrelative:newton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|e:\\numirical_project\\algorithmic calculator\\fixedpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|solutionrelative:fixedpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|e:\\numirical_project\\algorithmic calculator\\cramer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|solutionrelative:cramer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|e:\\numirical_project\\algorithmic calculator\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31FF5C4-C7AD-4CD8-9A0A-9DF7C18215A8}|algorithmic calculator.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fixedpoint.cs [Design]",
+              "DocumentMoniker": "E:\\Numirical_project\\algorithmic calculator\\fixedpoint.cs",
+              "RelativeDocumentMoniker": "fixedpoint.cs",
+              "ToolTip": "E:\\Numirical_project\\algorithmic calculator\\fixedpoint.cs [Design]",
+              "RelativeToolTip": "fixedpoint.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-27T17:51:48.042Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "falsePosition.cs",
+              "DocumentMoniker": "E:\\Numirical_project\\algorithmic calculator\\falsePosition.cs",
+              "RelativeDocumentMoniker": "falsePosition.cs",
+              "ToolTip": "E:\\Numirical_project\\algorithmic calculator\\falsePosition.cs",
+              "RelativeToolTip": "falsePosition.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-21T06:33:56.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "fixedpoint.cs",
+              "DocumentMoniker": "E:\\Numirical_project\\algorithmic calculator\\fixedpoint.cs",
+              "RelativeDocumentMoniker": "fixedpoint.cs",
+              "ToolTip": "E:\\Numirical_project\\algorithmic calculator\\fixedpoint.cs",
+              "RelativeToolTip": "fixedpoint.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-21T06:38:03.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "secant.cs",
+              "DocumentMoniker": "E:\\Numirical_project\\algorithmic calculator\\secant.cs",
+              "RelativeDocumentMoniker": "secant.cs",
+              "ToolTip": "E:\\Numirical_project\\algorithmic calculator\\secant.cs",
+              "RelativeToolTip": "secant.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCsAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-21T06:41:31.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bisection.cs",
+              "DocumentMoniker": "E:\\Numirical_project\\algorithmic calculator\\bisection.cs",
+              "RelativeDocumentMoniker": "bisection.cs",
+              "ToolTip": "E:\\Numirical_project\\algorithmic calculator\\bisection.cs",
+              "RelativeToolTip": "bisection.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAuwFQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-21T06:31:38.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Newton.cs",
+              "DocumentMoniker": "E:\\Numirical_project\\algorithmic calculator\\Newton.cs",
+              "RelativeDocumentMoniker": "Newton.cs",
+              "ToolTip": "E:\\Numirical_project\\algorithmic calculator\\Newton.cs",
+              "RelativeToolTip": "Newton.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAYwGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-21T06:09:38.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cramer.cs",
+              "DocumentMoniker": "E:\\Numirical_project\\algorithmic calculator\\Cramer.cs",
+              "RelativeDocumentMoniker": "Cramer.cs",
+              "ToolTip": "E:\\Numirical_project\\algorithmic calculator\\Cramer.cs",
+              "RelativeToolTip": "Cramer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-21T06:30:45.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "home.cs",
+              "DocumentMoniker": "E:\\Numirical_project\\algorithmic calculator\\home.cs",
+              "RelativeDocumentMoniker": "home.cs",
+              "ToolTip": "E:\\Numirical_project\\algorithmic calculator\\home.cs",
+              "RelativeToolTip": "home.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA7wBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-21T06:09:05.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cramer.cs [Design]",
+              "DocumentMoniker": "E:\\Numirical_project\\algorithmic calculator\\Cramer.cs",
+              "RelativeDocumentMoniker": "Cramer.cs",
+              "ToolTip": "E:\\Numirical_project\\algorithmic calculator\\Cramer.cs [Design]",
+              "RelativeToolTip": "Cramer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-05-21T06:26:00.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LU.cs [Design]",
+              "DocumentMoniker": "E:\\Numirical_project\\algorithmic calculator\\LU.cs",
+              "RelativeDocumentMoniker": "LU.cs",
+              "ToolTip": "E:\\Numirical_project\\algorithmic calculator\\LU.cs [Design]",
+              "RelativeToolTip": "LU.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-05-21T06:25:01.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "secant.cs [Design]",
+              "DocumentMoniker": "E:\\Numirical_project\\algorithmic calculator\\secant.cs",
+              "RelativeDocumentMoniker": "secant.cs",
+              "ToolTip": "E:\\Numirical_project\\algorithmic calculator\\secant.cs [Design]",
+              "RelativeToolTip": "secant.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-05-21T06:41:27.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "gauss.cs [Design]",
+              "DocumentMoniker": "E:\\Numirical_project\\algorithmic calculator\\gauss.cs",
+              "RelativeDocumentMoniker": "gauss.cs",
+              "ToolTip": "E:\\Numirical_project\\algorithmic calculator\\gauss.cs [Design]",
+              "RelativeToolTip": "gauss.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-05-21T06:25:47.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "bisection.cs [Design]",
+              "DocumentMoniker": "E:\\Numirical_project\\algorithmic calculator\\bisection.cs",
+              "RelativeDocumentMoniker": "bisection.cs",
+              "ToolTip": "E:\\Numirical_project\\algorithmic calculator\\bisection.cs [Design]",
+              "RelativeToolTip": "bisection.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-05-21T06:31:36.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Newton.cs [Design]",
+              "DocumentMoniker": "E:\\Numirical_project\\algorithmic calculator\\Newton.cs",
+              "RelativeDocumentMoniker": "Newton.cs",
+              "ToolTip": "E:\\Numirical_project\\algorithmic calculator\\Newton.cs [Design]",
+              "RelativeToolTip": "Newton.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-05-21T06:09:36.035Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

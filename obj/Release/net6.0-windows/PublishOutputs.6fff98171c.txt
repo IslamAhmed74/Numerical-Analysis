@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\algorithmic calculator.exe
+C:\Users\hp\Desktop\algorithmic calculator.dll
+C:\Users\hp\Desktop\algorithmic calculator.deps.json
+C:\Users\hp\Desktop\algorithmic calculator.runtimeconfig.json
+C:\Users\hp\Desktop\algorithmic calculator.pdb
+C:\Users\hp\Desktop\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\Desktop\runtimes\win-x64\native\sni.dll
+C:\Users\hp\Desktop\runtimes\win-x86\native\sni.dll
+C:\Users\hp\Desktop\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\Jace.dll

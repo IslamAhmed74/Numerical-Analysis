@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>E:\Numirical_project\algorithmic calculator\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="bisection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cramer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="falsePosition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fixedpoint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="gauss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="secant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Newton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="methods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
